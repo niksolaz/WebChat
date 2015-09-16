@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/niksolaz/WebChat",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "react-webpack": "^0.4.1"
   }
 }
