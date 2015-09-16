@@ -1,0 +1,25 @@
+{
+  "name": "webchat",
+  "version": "1.0.0",
+  "description": "instant messenger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksolaz/WebChat.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Nik Solaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niksolaz/WebChat/issues"
+  },
+  "homepage": "https://github.com/niksolaz/WebChat",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
